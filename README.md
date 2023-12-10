@@ -7,6 +7,8 @@ The **Diamond Price Prediction** project is an end-to-end model designed to pred
 
 The project employs a variety of regression models for optimal prediction accuracy, including Linear Regression, Lasso Regression for feature selection, Ridge Regression to prevent multicollinearity, and ElasticNet Regression, which combines feature selection and coefficient shrinkage. The effectiveness of these models is rigorously evaluated using industry-standard metrics:
 
+![Image1](Images/diamond_price_pred1.png) ![Image1](Images/diamond_price_pred2.png)
+
 ## Why Diamond Price Prediction Matters
 - **Industry Relevance:** In the ever-growing diamond industry, predicting prices accurately is crucial for various stakeholders, including jewelers, investors, and consumers.
 
