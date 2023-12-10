@@ -1,4 +1,11 @@
 # Diamond Price Prediction
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/release)
+[![Pandas Version](https://img.shields.io/badge/pandas-1.2%2B-green.svg)](https://pandas.pydata.org)
+[![Scikit-Learn Version](https://img.shields.io/badge/scikit--learn-0.24%2B-orange.svg)](https://scikit-learn.org/stable/whats_new/v0.24.html)
+[![Flask Version](https://img.shields.io/badge/Flask-1.1%2B-yellowgreen.svg)](https://flask.palletsprojects.com/en/1.1.x/)
+[![HTML Version](https://img.shields.io/badge/HTML-5%2B-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Version](https://img.shields.io/badge/CSS-3%2B-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ## Project Overview
 ### Introduction
@@ -7,7 +14,12 @@ The **Diamond Price Prediction** project is an end-to-end model designed to pred
 
 The project employs a variety of regression models for optimal prediction accuracy, including Linear Regression, Lasso Regression for feature selection, Ridge Regression to prevent multicollinearity, and ElasticNet Regression, which combines feature selection and coefficient shrinkage. The effectiveness of these models is rigorously evaluated using industry-standard metrics:
 
-![Image1](Images/diamond_price_pred1.png) ![Image1](Images/diamond_price_pred2.png)
+<table>
+  <tr>
+    <td><img src="Images/diamond_price_pred2.png" alt="Image 1"></td>
+    <td><img src="Images/diamond_price_pred1.png" alt="Image 2"></td>
+  </tr>
+</table>
 
 ## Why Diamond Price Prediction Matters
 - **Industry Relevance:** In the ever-growing diamond industry, predicting prices accurately is crucial for various stakeholders, including jewelers, investors, and consumers.
